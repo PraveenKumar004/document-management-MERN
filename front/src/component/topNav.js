@@ -5,8 +5,8 @@ function topNav() {
   return (
     <>
 
-      <div className='topNav_back'>
-          <div className='ms-3 h4 text-white'>Online Game</div>
+      <div className='topNav_back' style={{backgroundColor:'#cb4154'}}>
+          <div className='ms-3 h4 text-white'>Document Mangement</div>
       </div>
     </>
   )
